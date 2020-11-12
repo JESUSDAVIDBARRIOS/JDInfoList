@@ -1,4 +1,4 @@
 # info_list
-Cool Craiglist clone. 
+Craiglist clone. 
 
 Project idea comes from Clever Programmer.
